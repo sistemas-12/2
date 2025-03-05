@@ -1,6 +1,6 @@
 {
-    "name": "prueba2",
-    "short_name": "prueba2",
+    "name": "mi_sistema_web",
+    "short_name": "mi_sistema_web",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
